@@ -1,0 +1,10 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+D:/2025.1/Projects/Digital circuit design/DCD_Lab3_Dice/Dice/seg7_ctrl_lint.sv,1764705738,systemVerilog,,D:/2025.1/Projects/Digital circuit design/DCD_Lab3_Dice/Dice/ste_debounce.sv,,seg7_ctrl_lint,,uvm,../../../../../../../../../Vivado/data/rsb/busdef,,,,,
+D:/2025.1/Projects/Digital circuit design/DCD_Lab3_Dice/Dice/ste_debounce.sv,1764705738,systemVerilog,,D:/2025.1/Projects/Digital circuit design/DCD_Lab3_Dice/Dice/ste_dice_module.sv,,ste_debounce,,uvm,../../../../../../../../../Vivado/data/rsb/busdef,,,,,
+D:/2025.1/Projects/Digital circuit design/DCD_Lab3_Dice/Dice/ste_dice_module.sv,1764708808,systemVerilog,,D:/2025.1/Projects/Digital circuit design/DCD_Lab3_Dice/Dice/ste_dice_top.sv,,ste_dice_module,,uvm,../../../../../../../../../Vivado/data/rsb/busdef,,,,,
+D:/2025.1/Projects/Digital circuit design/DCD_Lab3_Dice/Dice/ste_dice_top.sv,1764705738,systemVerilog,,D:/2025.1/Projects/Digital circuit design/DCD_Lab3_Dice/Dice/ste_edge.sv,,ste_dice_top,,uvm,../../../../../../../../../Vivado/data/rsb/busdef,,,,,
+D:/2025.1/Projects/Digital circuit design/DCD_Lab3_Dice/Dice/ste_dice_top_tb.sv,1764705738,systemVerilog,,,,ste_dice_tb,,uvm,../../../../../../../../../Vivado/data/rsb/busdef,,,,,
+D:/2025.1/Projects/Digital circuit design/DCD_Lab3_Dice/Dice/ste_edge.sv,1764705738,systemVerilog,,D:/2025.1/Projects/Digital circuit design/DCD_Lab3_Dice/Dice/ste_dice_top_tb.sv,,ste_edge,,uvm,../../../../../../../../../Vivado/data/rsb/busdef,,,,,

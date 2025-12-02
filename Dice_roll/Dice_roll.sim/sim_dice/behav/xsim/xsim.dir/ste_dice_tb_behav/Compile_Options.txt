@@ -1,0 +1,1 @@
+--debug "all" --relax --mt "2" -cov_db_name "dice_cov" -cov_db_dir "cov" -cc_type "sbct" -L "xil_defaultlib" -L "uvm" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "ste_dice_tb_behav" "xil_defaultlib.ste_dice_tb" -log "elaborate.log" 

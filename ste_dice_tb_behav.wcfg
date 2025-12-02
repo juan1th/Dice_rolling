@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="ste_dice_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="ste_dice_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="4.620702500 ms"></ZoomStartTime>
+      <ZoomEndTime time="32.344917501 ms"></ZoomEndTime>
+      <Cursor1Time time="27.724215000 ms"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="310"></NameColumnWidth>
+      <ValueColumnWidth column_width="139"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="24" />
+   <wvobject fp_name="/ste_dice_tb/reset_ni" type="logic">
+      <obj_property name="ElementShortName">reset_ni</obj_property>
+      <obj_property name="ObjectShortName">reset_ni</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ste_dice_tb/dice_done_o" type="logic">
+      <obj_property name="ElementShortName">dice_done_o</obj_property>
+      <obj_property name="ObjectShortName">dice_done_o</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ste_dice_tb/dice_dout_o" type="array">
+      <obj_property name="ElementShortName">dice_dout_o[2:0]</obj_property>
+      <obj_property name="ObjectShortName">dice_dout_o[2:0]</obj_property>
+      <obj_property name="WaveformStyle">STYLE_ANALOG</obj_property>
+      <obj_property name="CellHeight">100</obj_property>
+      <obj_property name="AnalogYRangeType">ANALOG_YRANGETYPE_FIXED</obj_property>
+      <obj_property name="AnalogYRangeMin">1.84467e+19</obj_property>
+      <obj_property name="AnalogYRRangeMax">0</obj_property>
+      <obj_property name="AnalogInterpolation">ANALOG_INTERPOLATION_HOLD</obj_property>
+      <obj_property name="AnalogOffscale">ANALOG_OFFSCALE_HIDE</obj_property>
+      <obj_property name="AnalogHorizLine">0.000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ste_dice_tb/dice_val_cnt" type="array">
+      <obj_property name="ElementShortName">dice_val_cnt[6:1][31:0]</obj_property>
+      <obj_property name="ObjectShortName">dice_val_cnt[6:1][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ste_dice_tb/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ste_dice_tb/trig_i" type="logic">
+      <obj_property name="ElementShortName">trig_i</obj_property>
+      <obj_property name="ObjectShortName">trig_i</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ste_dice_tb/dut/trig_sync_deb" type="logic">
+      <obj_property name="ElementShortName">trig_sync_deb</obj_property>
+      <obj_property name="ObjectShortName">trig_sync_deb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ste_dice_tb/dut/trig_sync_deb_pls" type="logic">
+      <obj_property name="ElementShortName">trig_sync_deb_pls</obj_property>
+      <obj_property name="ObjectShortName">trig_sync_deb_pls</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ste_dice_tb/dut/i0_debounce/fsm_state_ff" type="array">
+      <obj_property name="ElementShortName">fsm_state_ff[2:0]</obj_property>
+      <obj_property name="ObjectShortName">fsm_state_ff[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ste_dice_tb/dice_val_cnt" type="array">
+      <obj_property name="ElementShortName">dice_val_cnt[6:1][31:0]</obj_property>
+      <obj_property name="ObjectShortName">dice_val_cnt[6:1][31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ste_dice_tb/dut/i0_seg7_ctrl/fsm_state_ff" type="array">
+      <obj_property name="ElementShortName">fsm_state_ff[1:0]</obj_property>
+      <obj_property name="ObjectShortName">fsm_state_ff[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ste_dice_tb/dut/i0_seg7_ctrl/all_off" type="logic">
+      <obj_property name="ElementShortName">all_off</obj_property>
+      <obj_property name="ObjectShortName">all_off</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ste_dice_tb/dut/i0_seg7_ctrl/cnt_en" type="logic">
+      <obj_property name="ElementShortName">cnt_en</obj_property>
+      <obj_property name="ObjectShortName">cnt_en</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ste_dice_tb/dut/i0_seg7_ctrl/cnt_clr" type="logic">
+      <obj_property name="ElementShortName">cnt_clr</obj_property>
+      <obj_property name="ObjectShortName">cnt_clr</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ste_dice_tb/dut/i0_seg7_ctrl/cnt_is_max" type="logic">
+      <obj_property name="ElementShortName">cnt_is_max</obj_property>
+      <obj_property name="ObjectShortName">cnt_is_max</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ste_dice_tb/dut/i0_seg7_ctrl/cnt_ff" type="array">
+      <obj_property name="ElementShortName">cnt_ff[19:0]</obj_property>
+      <obj_property name="ObjectShortName">cnt_ff[19:0]</obj_property>
+      <obj_property name="WaveformStyle">STYLE_ANALOG</obj_property>
+      <obj_property name="CellHeight">100</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ste_dice_tb/dut/i0_seg7_ctrl/seg" type="array">
+      <obj_property name="ElementShortName">seg[6:0]</obj_property>
+      <obj_property name="ObjectShortName">seg[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ste_dice_tb/dut/i0_seg7_ctrl/dp" type="logic">
+      <obj_property name="ElementShortName">dp</obj_property>
+      <obj_property name="ObjectShortName">dp</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ste_dice_tb/dut/i0_seg7_ctrl/an" type="array">
+      <obj_property name="ElementShortName">an[3:0]</obj_property>
+      <obj_property name="ObjectShortName">an[3:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/ste_dice_tb/dut/i0_seg7_ctrl/dim" type="array">
+      <obj_property name="ElementShortName">dim[3:0]</obj_property>
+      <obj_property name="ObjectShortName">dim[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ste_dice_tb/btnU" type="logic">
+      <obj_property name="ElementShortName">btnU</obj_property>
+      <obj_property name="ObjectShortName">btnU</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ste_dice_tb/dut/i0_seg7_ctrl/dim_ff" type="array">
+      <obj_property name="ElementShortName">dim_ff[3:0]</obj_property>
+      <obj_property name="ObjectShortName">dim_ff[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ste_dice_tb/dut/i0_seg7_ctrl/fsm_state_ff" type="array">
+      <obj_property name="ElementShortName">fsm_state_ff[1:0]</obj_property>
+      <obj_property name="ObjectShortName">fsm_state_ff[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ste_dice_tb/dut/i0_seg7_ctrl/x_digit_ld" type="logic">
+      <obj_property name="ElementShortName">x_digit_ld</obj_property>
+      <obj_property name="ObjectShortName">x_digit_ld</obj_property>
+   </wvobject>
+</wave_config>

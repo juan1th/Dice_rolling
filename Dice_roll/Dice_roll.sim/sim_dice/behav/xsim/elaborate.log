@@ -1,0 +1,22 @@
+Vivado Simulator v2025.1.0
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: D:/2025.1/Vivado/bin/unwrapped/win64.o/xelab.exe --debug all --relax --mt 2 -cov_db_name dice_cov -cov_db_dir cov -cc_type sbct -L xil_defaultlib -L uvm -L unisims_ver -L unimacro_ver -L secureip --snapshot ste_dice_tb_behav xil_defaultlib.ste_dice_tb -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-10063] index 2 into 'dice_done_o' is out of bounds [D:/2025.1/Projects/Digital circuit design/DCD_Lab3_Dice/Dice/ste_dice_top.sv:132]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.ste_debounce(SYNC=1)
+Compiling module xil_defaultlib.ste_edge(SYNC=1'b0)
+Compiling module xil_defaultlib.ste_dice_module(INITIAL_VALUE=8'...
+Compiling module xil_defaultlib.ste_dice_module(INITIAL_VALUE=8'...
+Compiling module xil_defaultlib.ste_dice_module(INITIAL_VALUE=8'...
+Compiling module xil_defaultlib.ste_dice_module(INITIAL_VALUE=8'...
+Compiling module xil_defaultlib.seg7_ctrl_lint
+Compiling module xil_defaultlib.ste_dice_top_default
+Compiling module xil_defaultlib.ste_dice_tb
+Built simulation snapshot ste_dice_tb_behav

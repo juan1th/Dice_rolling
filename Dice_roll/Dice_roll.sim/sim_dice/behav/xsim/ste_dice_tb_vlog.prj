@@ -1,0 +1,8 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  --include "../../../../../../../../../Vivado/data/rsb/busdef" \
+"../../../../../seg7_ctrl_lint.sv" \
+"../../../../../ste_debounce.sv" \
+"../../../../../ste_dice_module.sv" \
+"../../../../../ste_dice_top.sv" \
+"../../../../../ste_edge.sv" \
+"../../../../../ste_dice_top_tb.sv" \

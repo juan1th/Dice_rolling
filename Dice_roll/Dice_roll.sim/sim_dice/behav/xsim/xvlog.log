@@ -1,0 +1,12 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/2025.1/Projects/Digital circuit design/DCD_Lab3_Dice/Dice/seg7_ctrl_lint.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module seg7_ctrl_lint
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/2025.1/Projects/Digital circuit design/DCD_Lab3_Dice/Dice/ste_debounce.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ste_debounce
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/2025.1/Projects/Digital circuit design/DCD_Lab3_Dice/Dice/ste_dice_module.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ste_dice_module
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/2025.1/Projects/Digital circuit design/DCD_Lab3_Dice/Dice/ste_dice_top.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ste_dice_top
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/2025.1/Projects/Digital circuit design/DCD_Lab3_Dice/Dice/ste_edge.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ste_edge
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/2025.1/Projects/Digital circuit design/DCD_Lab3_Dice/Dice/ste_dice_top_tb.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ste_dice_tb
