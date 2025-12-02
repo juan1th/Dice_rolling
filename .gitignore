@@ -1,0 +1,13 @@
+# Vivado generated files
+*.cache/
+*.runs/
+*.sim/
+*.hw/
+*.jou
+*.log
+*.pb
+*.str
+
+Dice.cache/
+Dice.sim/
+Dice.xpr
